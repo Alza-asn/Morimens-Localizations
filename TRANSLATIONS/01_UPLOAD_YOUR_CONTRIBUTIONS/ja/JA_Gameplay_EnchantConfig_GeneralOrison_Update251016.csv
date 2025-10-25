@@ -71,3 +71,4 @@ EnchantConfig_18203_Name,awhc,f附魔_EnchantConfig_A.csv,23,EnchantConfig,Name,
 EnchantConfig_18204_Desc,awhd,f附魔_EnchantConfig_A.csv,20,EnchantConfig,Desc,,打出后将卡牌的 [Arg1] 张复制加入临时<DimensionalSpaceIconKeywords:超维空间>。,使用後、[Arg1]枚のコピーを<DimensionalSpaceIconKeywords:超次元空間>に追加する。
 EnchantConfig_18204_Name,awhe,f附魔_EnchantConfig_A.csv,20,EnchantConfig,Name,,<WhiteQuality:折跃>,<WhiteQuality:転送>
 
+
