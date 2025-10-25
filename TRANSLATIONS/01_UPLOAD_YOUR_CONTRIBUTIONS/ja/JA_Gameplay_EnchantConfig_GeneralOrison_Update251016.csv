@@ -2,7 +2,7 @@
 EnchantConfig_18169_Name,awfM,f附魔_EnchantConfig_A.csv,9,EnchantConfig,Name,,<WhiteQuality:筹算>,<WhiteQuality:算力>
 EnchantConfig_18170_Desc,awfN,f附魔_EnchantConfig_A.csv,35,EnchantConfig,Desc,,打出后获得 [Arg1] 层<RetaliateIconKeywords:反击>，对所有敌人造成 [Arg2]% <RetaliateIconKeywords:反击>的真实伤害。,使用後、[Arg1]点の<RetaliateIconKeywords:反撃>を獲得し、すべての敵に<RetaliateIconKeywords:反撃>の[Arg2]％分の固定ダメージを与える。
 EnchantConfig_18170_Name,awfO,f附魔_EnchantConfig_A.csv,35,EnchantConfig,Name,,<OrangeQuality:高级尖刺>,<OrangeQuality:上位尖刺>
-EnchantConfig_18171_Desc,awfP,f附魔_EnchantConfig_A.csv,33,EnchantConfig,Desc,,打出后额外生效 [Arg1] 次，获得 [Arg2] 点黑印，<DepleteIconKeywords:消耗>、<GuyouKeywords:固有>。,使用後、カードの効果が[Arg1]回発動し、[Arg2]黒章を獲得する。<DepleteIconKeywords:消費>、<GuyouKeywords:固有>。
+EnchantConfig_18171_Desc,awfP,f附魔_EnchantConfig_A.csv,33,EnchantConfig,Desc,,打出后额外生效 [Arg1] 次，获得 [Arg2] 点黑印，<DepleteIconKeywords:消耗>、<GuyouKeywords:固有>。,使用後、カードの効果が追加で[Arg1]回発動し、[Arg2]黒章を獲得する。<DepleteIconKeywords:消費>、<GuyouKeywords:固有>。
 EnchantConfig_18171_Name,awfQ,f附魔_EnchantConfig_A.csv,33,EnchantConfig,Name,,<OrangeQuality:高级回声>,<OrangeQuality:上位反響>
 EnchantConfig_18172_Desc,awfR,f附魔_EnchantConfig_A.csv,25,EnchantConfig,Desc,,打出后使所有敌人失去 [Arg1] 点临时<PowerIconKeywords:力量>。,使用後、すべての敵から[Arg1]点の<PowerIconKeywords:力>を一時的に減少させる。
 EnchantConfig_18172_Name,awfS,f附魔_EnchantConfig_A.csv,25,EnchantConfig,Name,,<WhiteQuality:衰竭>,<WhiteQuality:衰弱>
@@ -60,7 +60,7 @@ EnchantConfig_18198_Desc,awgR,f附魔_EnchantConfig_A.csv,42,EnchantConfig,Desc,
 EnchantConfig_18198_Name,awgS,f附魔_EnchantConfig_A.csv,42,EnchantConfig,Name,,<OrangeQuality:高级催化>,<OrangeQuality:上位触媒>
 EnchantConfig_18199_Desc,awgT,f附魔_EnchantConfig_A.csv,16,EnchantConfig,Desc,,打出后获得 [Arg1] 层<RetaliateIconKeywords:反击>，对所有敌人造成 [Arg2]% <RetaliateIconKeywords:反击>的真实伤害。,使用後、[Arg1]点の<RetaliateIconKeywords:反撃>を獲得し、すべての敵に<RetaliateIconKeywords:反撃>の[Arg2]％分の固定ダメージを与える。
 EnchantConfig_18199_Name,awgU,f附魔_EnchantConfig_A.csv,16,EnchantConfig,Name,,<WhiteQuality:尖刺>,<WhiteQuality:尖刺>
-EnchantConfig_18200_Desc,awgV,f附魔_EnchantConfig_A.csv,14,EnchantConfig,Desc,,打出后额外生效 [Arg1] 次，获得 [Arg2] 点黑印，<DepleteIconKeywords:消耗>、<GuyouKeywords:固有>。,使用後、カードの効果が[Arg1]回発動し、[Arg2]黒章を獲得する。<DepleteIconKeywords:消費>、<GuyouKeywords:固有>。
+EnchantConfig_18200_Desc,awgV,f附魔_EnchantConfig_A.csv,14,EnchantConfig,Desc,,打出后额外生效 [Arg1] 次，获得 [Arg2] 点黑印，<DepleteIconKeywords:消耗>、<GuyouKeywords:固有>。,使用後、カードの効果が追加で[Arg1]回発動し、[Arg2]黒章を獲得する。<DepleteIconKeywords:消費>、<GuyouKeywords:固有>。
 EnchantConfig_18200_Name,awgW,f附魔_EnchantConfig_A.csv,14,EnchantConfig,Name,,<WhiteQuality:回声>,<WhiteQuality:反響>
 EnchantConfig_18201_Desc,awgX,f附魔_EnchantConfig_A.csv,10,EnchantConfig,Desc,,打出后所属唤醒体获得 [Arg1] 点狂气。,使用後、[Arg1]狂気を獲得する。
 EnchantConfig_18201_Name,awgY,f附魔_EnchantConfig_A.csv,10,EnchantConfig,Name,,<WhiteQuality:狂化>,<WhiteQuality:狂化>
@@ -70,3 +70,4 @@ EnchantConfig_18203_Desc,awhb,f附魔_EnchantConfig_A.csv,23,EnchantConfig,Desc,
 EnchantConfig_18203_Name,awhc,f附魔_EnchantConfig_A.csv,23,EnchantConfig,Name,,<WhiteQuality:催化>,<WhiteQuality:触媒>
 EnchantConfig_18204_Desc,awhd,f附魔_EnchantConfig_A.csv,20,EnchantConfig,Desc,,打出后将卡牌的 [Arg1] 张复制加入临时<DimensionalSpaceIconKeywords:超维空间>。,使用後、[Arg1]枚のコピーを<DimensionalSpaceIconKeywords:超次元空間>に追加する。
 EnchantConfig_18204_Name,awhe,f附魔_EnchantConfig_A.csv,20,EnchantConfig,Name,,<WhiteQuality:折跃>,<WhiteQuality:転送>
+
